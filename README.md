@@ -6,6 +6,7 @@ matrix will be printed along with the points it took to solve the matrix.
 
 The following matrix is solved for a path from 'S' to 'F'. 
 
+```
  -  -  -  -  - -
 | S  0  .  0  . |
 | .  .  .  0  0 |
@@ -15,6 +16,7 @@ The following matrix is solved for a path from 'S' to 'F'.
 | .  0  .  0  0 |
 | .  0  .  0  0 |
  -  -  -  -  - -
+ ```
 
 
 
